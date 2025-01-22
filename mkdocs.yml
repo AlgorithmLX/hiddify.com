@@ -129,6 +129,10 @@ extra:
       link: /fa/
       lang: fa
       tz: 210
+    
+    - name: Русский
+      link: /ru/
+      lang: ru
 
   consent:
     title: Cookie consent
